@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Coffee Shop App is a digitally enabled cafe, where students can order drinks, socialize, and study hard. The application API is built around RESTful concepts and it performs all CRUD operations. As part of Udacity Fullstack Nanodegree, it is a project I built using all the concepts and skills I learnt throughout the lesson.
+Coffee Shop App is a digitally enabled cafe, where students can order drinks, socialize, and study hard. The application API is built around RESTful concepts and it performs all CRUD operations. 
 
 The App does the following with the help of the built API, and the authentication system.
 
